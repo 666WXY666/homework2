@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework</string>
+    <string name="chat_room_title">我和%1$s的对话</string>
+    <string name="message">消息</string>
+    <string name="reset_log">重置LOG</string>
+    <string name="send_message">发送消息</string>
+</resources>
